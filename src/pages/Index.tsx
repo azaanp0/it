@@ -96,7 +96,7 @@ const Index = () => {
           </a>
         </div>
         <p className="text-muted-foreground text-sm font-mono" dir="ltr">
-          © {new Date().getFullYear()} — All rights reserved
+          © 2024 — All rights reserved
         </p>
       </footer>
     </main>
